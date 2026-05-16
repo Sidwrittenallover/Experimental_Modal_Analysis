@@ -4,6 +4,8 @@ Identifying natural frequencies and mode shapes of a 3-storey steel frame struct
 
 For full methodology, results, and discussion see [`report.pdf`](./report.pdf).
 
+This study showcases the effect of faulty sensors in modal analysis and some that can be observed in literatures.
+
 ---
 
 ## Repository Structure
